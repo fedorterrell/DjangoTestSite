@@ -1,0 +1,2 @@
+# DjangoTestSite
+Django basic tutorial
